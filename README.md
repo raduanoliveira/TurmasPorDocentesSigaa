@@ -1,4 +1,6 @@
+## Propósito do projeto
 
+O projeto tem a finalidade de se conectar a API do SIGAA, recuperar os docentes ativos, as turmas de cada docente no ano vigente e o quantitativo dos discentes participantes de cada turma.
 
 ## Instalação do Laravel
 
