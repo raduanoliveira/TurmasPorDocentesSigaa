@@ -1,0 +1,5 @@
+*
+!public/
+!.gitignore
+!sig/
+!sig/sig_exemplo.json
